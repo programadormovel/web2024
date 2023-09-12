@@ -4,4 +4,9 @@
 
 body {
     background-color: antiquewhite;
+    font-family: "Audiowide", sans-serif;
+}
+
+h3 {
+    font-family: "Consola", sans-serif;
 }
