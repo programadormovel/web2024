@@ -1,5 +1,13 @@
-#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9 {
-    display:none;
+#p1,
+#p2,
+#p3,
+#p4,
+#p5,
+#p6,
+#p7,
+#p8,
+#p9 {
+    display: none;
 }
 
 body {
@@ -8,5 +16,15 @@ body {
 }
 
 h3 {
-    font-family: "Consola", sans-serif;
+    font-family: "Audiowide", sans-serif;
+}
+
+p {
+    font-family: "Arial", sans-serif;
+    text-align: justify;
+}
+
+#texto-footer {
+    text-align: right;
+    margin: 10px;
 }
