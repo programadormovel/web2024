@@ -17,6 +17,8 @@ function getCEP() {
     const url = `https://viacep.com.br/ws/${cep}/json`;
     fetch(url).then(
         resposta => {
+            // tratamento
+
             return resposta.json();
         }
     ).then(data => {
