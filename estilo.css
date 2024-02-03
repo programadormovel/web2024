@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(249, 250, 245);
     font-family: "Audiowide", sans-serif;
 }
 
@@ -27,4 +27,34 @@ p {
 #texto-footer {
     text-align: right;
     margin: 10px;
+}
+
+.img-windows {
+    width: 100%;
+    height: 60%;
+    padding: 10%;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blueviolet;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 }

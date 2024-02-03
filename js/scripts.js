@@ -17,7 +17,6 @@ $(document).ready(function() {
     });
 });
 
-
 $(document).ready(function() {
     $("#web").click(function() {
         $("#p4").fadeIn();
@@ -25,7 +24,6 @@ $(document).ready(function() {
         $("#p6").fadeIn(3000);
     });
 });
-
 
 $(document).ready(function() {
     $("#mobile").click(function() {
